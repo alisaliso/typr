@@ -1,0 +1,273 @@
+{
+  "1": {
+    "lesson": 1,
+    "title": "Home Row – Left Hand (Single-letter focus)",
+    "requiredAccuracy": 0.95,
+    "newKeys": ["a", "s", "d", "f"],
+    "sections": [
+      {
+        "type": "single",
+        "drills": [
+          "aaaa ssss dddd ffff",
+          "as as sa sa sd sd ds ds df df fd fd fa fa af af"
+        ]
+      },
+      {
+        "type": "bigram",
+        "drills": [
+          "as sa sd ds df fd fa af ad da",
+          "ad ad ad as as as df df df"
+        ]
+      },
+      {
+        "type": "words",
+        "drills": ["as sad dad fad add sass", "sad as fad dad"]
+      },
+      {
+        "type": "sentences",
+        "drills": ["sad dad", "a sad fad"]
+      }
+    ]
+  },
+  "2": {
+    "lesson": 2,
+    "title": "Home Row – Right Hand (Single-letter focus)",
+    "requiredAccuracy": 0.95,
+    "newKeys": ["j", "k", "l", ";"],
+    "sections": [
+      {
+        "type": "single",
+        "drills": ["jjjj kkkk llll ;;;;", "jk jk kl kl lj lj j; j;"]
+      },
+      {
+        "type": "bigram",
+        "drills": ["jk kj jl lj j; ;j k; ;k l; ;l", "aj ja ak ka al la a; ;a"]
+      },
+      {
+        "type": "words",
+        "drills": ["all ask lad lads fall flak", "all lads ask"]
+      },
+      {
+        "type": "sentences",
+        "drills": ["all lads ask", "sad lad falls"]
+      }
+    ]
+  },
+  "3": {
+    "lesson": 3,
+    "title": "Home Row – All Fingers (Consolidation)",
+    "requiredAccuracy": 0.95,
+    "newKeys": [],
+    "sections": [
+      {
+        "type": "single",
+        "drills": ["asdf jkl; asdf jkl;", "aa ss dd ff jj kk ll ;;"]
+      },
+      {
+        "type": "bigram",
+        "drills": ["as sd df fj jk kl l; ;a aj ja", "af fa al la sj js dk kd"]
+      },
+      {
+        "type": "words",
+        "drills": ["sad lad all ask flask fall", "lads fall as all"]
+      },
+      {
+        "type": "sentences",
+        "drills": ["all lads fall", "sad lad asks"]
+      }
+    ]
+  },
+  "4": {
+    "lesson": 4,
+    "title": "Vertical Reach – e & i (Single-letter focus)",
+    "requiredAccuracy": 0.95,
+    "newKeys": ["e", "i"],
+    "sections": [
+      {
+        "type": "single",
+        "drills": [
+          "eeee iiii eeee iiii",
+          "ae ae se se de de fe fe ie ie je je ke ke le le"
+        ]
+      },
+      {
+        "type": "bigram",
+        "drills": [
+          "ei ie ea ae es se ed de ef fe id di il li ik ki",
+          "ai ia si is fi if"
+        ]
+      },
+      {
+        "type": "words",
+        "drills": ["side sale fail file sail said", "aisle idle alias"]
+      },
+      {
+        "type": "sentences",
+        "drills": ["sad lad is idle", "lisa is safe"]
+      }
+    ]
+  },
+  "5": {
+    "lesson": 5,
+    "title": "Vertical Reach – e & i (Bigrams)",
+    "requiredAccuracy": 0.95,
+    "newKeys": [],
+    "sections": [
+      {
+        "type": "single",
+        "drills": ["eeee iiii", "ei ei ie ie"]
+      },
+      {
+        "type": "bigram",
+        "drills": [
+          "ae ea se es de ed fe ef ie ei je ej ke ek le el",
+          "is si id di il li al la ai ia"
+        ]
+      },
+      {
+        "type": "words",
+        "drills": ["aside slide fail sail said idea aisle idle", "alias field"]
+      },
+      {
+        "type": "sentences",
+        "drills": ["lisa said i fail", "idle lads sail"]
+      }
+    ]
+  },
+  "6": {
+    "lesson": 6,
+    "title": "Vertical Reach – e & i (Words)",
+    "requiredAccuracy": 0.95,
+    "newKeys": [],
+    "sections": [
+      {
+        "type": "single",
+        "drills": ["e i e i e i e i", "eeee iiii"]
+      },
+      {
+        "type": "bigram",
+        "drills": ["ei ie ai ia si is fi if li il", "ed de es se el le"]
+      },
+      {
+        "type": "words",
+        "drills": [
+          "idea aisle ideal dial file fail sale sail side",
+          "lies lids idle ides alias"
+        ]
+      },
+      {
+        "type": "sentences",
+        "drills": ["lisa lies idle", "sid is safe"]
+      }
+    ]
+  },
+  "7": {
+    "lesson": 7,
+    "title": "Vertical Reach – e & i (Sentences)",
+    "requiredAccuracy": 0.95,
+    "newKeys": [],
+    "sections": [
+      {
+        "type": "single",
+        "drills": ["eeee iiii eeee iiii"]
+      },
+      {
+        "type": "bigram",
+        "drills": ["ei ie ei ie"]
+      },
+      {
+        "type": "words",
+        "drills": ["safe sail fail file idle idea", "aside alias"]
+      },
+      {
+        "type": "sentences",
+        "drills": [
+          "all lads idle as i fail",
+          "lisa said i sail as a lie",
+          "sad dads fail as i idle"
+        ]
+      }
+    ]
+  },
+  "8": {
+    "lesson": 8,
+    "title": "Left-Hand Top Row – q w r t (Single-letter focus)",
+    "requiredAccuracy": 0.95,
+    "newKeys": ["q", "w", "r", "t"],
+    "sections": [
+      {
+        "type": "single",
+        "drills": ["qqqq wwww rrrr tttt", "q w r t q w r t"]
+      },
+      {
+        "type": "bigram",
+        "drills": [
+          "qw wq qr rq qt tq wr rw wt tw rt tr",
+          "aq qa sw ws er re et te"
+        ]
+      },
+      {
+        "type": "words",
+        "drills": ["war raw tar rat art tart start dart wart", "star"]
+      },
+      {
+        "type": "sentences",
+        "drills": ["art was raw", "sad rat sat"]
+      }
+    ]
+  },
+  "9": {
+    "lesson": 9,
+    "title": "Left-Hand Top Row – q w r t (Bigrams)",
+    "requiredAccuracy": 0.95,
+    "newKeys": [],
+    "sections": [
+      {
+        "type": "single",
+        "drills": ["qq ww rr tt", "q w r t"]
+      },
+      {
+        "type": "bigram",
+        "drills": [
+          "qa aq qs sq qt tq qw wq wr rw rt tr",
+          "ra ar ta at sa as wa aw"
+        ]
+      },
+      {
+        "type": "words",
+        "drills": [
+          "tart start wart dart draw ward raw war art",
+          "swat saw rat star"
+        ]
+      },
+      {
+        "type": "sentences",
+        "drills": ["ward was war", "sad rat was raw"]
+      }
+    ]
+  },
+  "10": {
+    "lesson": 10,
+    "title": "Left-Hand Top Row – q w r t (Words)",
+    "requiredAccuracy": 0.95,
+    "newKeys": [],
+    "sections": [
+      {
+        "type": "single",
+        "drills": ["q w r t q w r t", "tttt rrrr wwww qqqq"]
+      },
+      {
+        "type": "bigram",
+        "drills": ["tr rt ta at ra ar wa aw wr rw", "qa aq qs sq qt tq"]
+      },
+      {
+        "type": "words",
+        "drills": ["start tart wart dart draft draw raw war art tar rat star"]
+      },
+      {
+        "type": "sentences",
+        "drills": ["raw art was start", "rat dart war"]
+      }
+    ]
+  }
+}
